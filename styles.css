@@ -1,3 +1,7 @@
 body {
-  background: orange;
+  background: gray;
+}
+
+ol {
+  background-color: blue;
 }
