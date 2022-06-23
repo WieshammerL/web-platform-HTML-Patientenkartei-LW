@@ -2,6 +2,12 @@ body {
   background: gray;
 }
 
+h1 {
+  font-style: oblique;
+  margin-left: 35%;
+}
+
 ol {
   background-color: blue;
 }
+
